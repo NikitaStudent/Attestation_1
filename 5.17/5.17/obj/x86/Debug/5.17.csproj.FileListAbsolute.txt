@@ -1,0 +1,10 @@
+/Users/nikitakozevnikov/Projects/attestation1/5.17/bin/Debug/5.17.exe
+/Users/nikitakozevnikov/Projects/attestation1/5.17/bin/Debug/5.17.pdb
+/Users/nikitakozevnikov/Projects/attestation1/5.17/obj/x86/Debug/5.17.csproj.CoreCompileInputs.cache
+/Users/nikitakozevnikov/Projects/attestation1/5.17/obj/x86/Debug/5.17.exe
+/Users/nikitakozevnikov/Projects/attestation1/5.17/obj/x86/Debug/5.17.pdb
+/Volumes/Без названия/Projects/attestation1/5.17/bin/Debug/5.17.exe
+/Volumes/Без названия/Projects/attestation1/5.17/bin/Debug/5.17.pdb
+/Volumes/Без названия/Projects/attestation1/5.17/obj/x86/Debug/5.17.csproj.CoreCompileInputs.cache
+/Volumes/Без названия/Projects/attestation1/5.17/obj/x86/Debug/5.17.exe
+/Volumes/Без названия/Projects/attestation1/5.17/obj/x86/Debug/5.17.pdb

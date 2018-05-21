@@ -1,0 +1,7 @@
+C:\Users\Никита\source\repos\Attestation_1\1.17\bin\Debug\1.17.exe.config
+C:\Users\Никита\source\repos\Attestation_1\1.17\bin\Debug\1.17.exe
+C:\Users\Никита\source\repos\Attestation_1\1.17\bin\Debug\1.17.pdb
+C:\Users\Никита\source\repos\Attestation_1\1.17\obj\Debug\1.17.csprojResolveAssemblyReference.cache
+C:\Users\Никита\source\repos\Attestation_1\1.17\obj\Debug\1.17.csproj.CoreCompileInputs.cache
+C:\Users\Никита\source\repos\Attestation_1\1.17\obj\Debug\1.17.exe
+C:\Users\Никита\source\repos\Attestation_1\1.17\obj\Debug\1.17.pdb
